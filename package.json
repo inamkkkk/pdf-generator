@@ -1,0 +1,14 @@
+{
+  "name": "pdf-generator",
+  "version": "1.0.0",
+  "description": "A simple PDF generator API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.6.1",
+    "uuid": "^9.0.1"
+  }
+}
